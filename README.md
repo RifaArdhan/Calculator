@@ -32,6 +32,6 @@ Proyek Kalkulator ini terdiri dari beberapa komponen kunci, termasuk:
 - *CalculatorCore*: Berisi logika bisnis untuk melakukan operasi perhitungan.
 - *Calculator UI*: Menyediakan antarmuka pengguna untuk interaksi pengguna.
 
-##Dokumentasi
+## Dokumentasi
 
 Untuk informasi lebih lanjut tentang arsitektur proyek [Dokumentasi Arsitektur](https://github.com/microsoft/calculator/blob/main/docs/Architecture.md).
